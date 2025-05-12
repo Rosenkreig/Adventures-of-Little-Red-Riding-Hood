@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: a50b6e91d47c6b44dbdab8581b561686
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dd29dfde9a8c14c96a38452bec979a
+      internalID: 2003363218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island-2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739a6645f390134788240341f355ca6
+      internalID: 1840269909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-rock
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7502101306c7c6c4a89f7d03d52f6caa
+      internalID: 640001436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-upper-rocky2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e00734956b19c4292da8e4423807e1
+      internalID: -1550910918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-upper-rocky
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5b4645c27bda8459f0fca6e3480bec
+      internalID: 2082892394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island-3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 232
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10e1a34b78d1e48a46dbe313983acc
+      internalID: 1379065494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island-4
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 232
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a0c205c5aa7a943a5339525671528f
+      internalID: 454983013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-rocky-left1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62907694f2aaba47a308f041621f525
+      internalID: -1461971907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-rocky2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d76bd0bbd649f3418c693ea3e05bab6
+      internalID: -796065131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-rocky
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0d54badb8a834cb838f2898b7db56
+      internalID: -2042649060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-rocky-left2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb04d8cca037ed4c98ebe2ccc59127f
+      internalID: -1643379725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-empty
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42acf8edc7b24e644a1d351ce326be04
+      internalID: -216935166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-cliff-left-under
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de9cfbe5d35f7b47bd565aad5bffdb3
+      internalID: -1052433920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-under-rocky2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 176
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075cf4dea9bdfa94f9f80349719851d4
+      internalID: -1810254066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-cliff-right-under
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843612a4b71fd94499aa765566df5bd2
+      internalID: -468055888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-block-s
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd33385f863f1d489a2c40e5047cd26
+      internalID: 33960205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-upper-grass-bush
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4433c899134e74f94c6817a9c454a6
+      internalID: 1114818857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-upper-grass
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f694b7b5e3bd844a9f8113f37b00b7
+      internalID: 668433596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-upper-1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d609ee703a0d544fa0816386cb85bcf
+      internalID: -1755054872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-upper-2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9f71b19299fb46bac2397c6e99b07
+      internalID: -1243898949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-grass
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c89f20658fc34d848ce847211c136
+      internalID: 1058711620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40dc267c404dc944afd6debaf341dc3
+      internalID: 817132688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11b117f0c3da348a4186050e60649b
+      internalID: -85640730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-empty
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bf67363bd318948b98a28e6d08d080
+      internalID: -1886652279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-upper-3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48490f6aa200244791557ed3bc24909
+      internalID: 920542851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-upper-4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00a5787887be8a4e9eb51cd52da752e
+      internalID: 630364663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-1
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfabfec44b30097479a1e93d855322ca
+      internalID: -826060322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40d35e69b1efd64dad60de7cea51d98
+      internalID: -1312780939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-empty-s
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7188cf0768120094b9a925338212f243
+      internalID: -1065748222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 144
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bf27fcebd4ad2498c606a7f0fee24f
+      internalID: -2076206366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-grass
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 32
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050239f5248c586418c8ae2cbd953098
+      internalID: -1947838988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 220
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a85d689df12c68448ffd2a3e1544dbc
+      internalID: 93462742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-bridge-left-lower
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 96
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490be1070b2e64047b44376b020ee457
+      internalID: 447221847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-bridge-middle-lower
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621582cdab7c1694c8afdabd7ab39f85
+      internalID: 16549263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-bridge-right-lower
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 96
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dbde5c3ba70d64fa7e066cce410fe7
+      internalID: -951914678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa99f3b941a240429813a86a9ac9b3c
+      internalID: 1791648468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush-s
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233d10ff2228de4c8413f13d67e40cf
+      internalID: 1147326092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: huge-rock
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 176
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858011969c408c4dbe94e1874c6fa45
+      internalID: -1473483202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2aed7dd320a6c469010050b8b73a7b
+      internalID: 1432751727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-upper-5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c91b0baee0dcd745afaa229e12d8383
+      internalID: -369837094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-tileset
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdac1a010da44c4292a43d0043fe820
+      internalID: 809457517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush-tileset
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e764039087649ec42903cea8fd16eccd
+      internalID: -774498853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-cliff-lower
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9932ca7ccec44daade02b5e2f3aef
+      internalID: 682970488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rocky-lower
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbee6347e96a4045b4fac549504d536
+      internalID: 162668307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 32
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3531d642f848648b7b7d3a725f9fdc
+      internalID: 288845537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-block-left
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de6ab5f4ed15044eafa09bc52af331f
+      internalID: -236938605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-block-right
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dc8a15957b4394db24e9e908e522e3
+      internalID: 486042520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-block-l
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 224
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adac4f3318275ca44965cd2a6dd8c147
+      internalID: 699513169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-block-m
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 176
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690db460c272de34b9822a24065dace3
+      internalID: 706131645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-left-downward-slope
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 144
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab62e238453efa848b489a0199a61c7b
+      internalID: 2010827463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-right-downward-slope
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 144
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb1f9cf82970eb4f8f2ed3c85d3a187
+      internalID: 1119597918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-left-upward-slope
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d77261d035e724f956f20eebeaff05
+      internalID: -402647837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-right-upward-slope
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 240
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad089798a9301e34a9be09c6e4643da3
+      internalID: 1275896452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cliff
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ee787788fa1145a5e5fd9318f1df3
+      internalID: 431487197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-empty-big
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead0b5583a462b54e9a27db3b43467a2
+      internalID: 775495912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-veins
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4753ac55a42549bda199233160288
+      internalID: 81222598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-left-downward-slope-2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f140df87427654a42a83c21ba225418e
+      internalID: 1433866111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cave-right-downward-slope-2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 16
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58866f0974623bf4aa6c1d8c27a15b2d
+      internalID: -1748201754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-grass-bush-mid
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61bd2bacef44f64b84c471315510d06
+      internalID: 78628595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-grass-bush-left
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8254d36175f4c47baf444896be4fd1
+      internalID: -1084373587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-grass-bush-right
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a3cb769f109684e9d48c3f17317c2f
+      internalID: -528080641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-cliff-lower-right
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e9e99a406bb94395ee6a165c266e5
+      internalID: -391485171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cliff-upper
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a57d51e67beb418b3e2f7b9487a70
+      internalID: 1071135711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-cliff-right-upper
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e24c9fc8458b3047bfe68882166ec8b
+      internalID: -602971790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-under-rocky
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 176
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d379a247d85bc42af2c55f849a0d7a
+      internalID: -1107767434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-under-rocky-slope
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230012b58b0d9e45a90df44be1fae5e
+      internalID: -666780031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-bridge-left-upper
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 128
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df76661b1ee384a992d3ec6834eb9d
+      internalID: 860463575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-bridge-middle-upper
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc41ed2407c04f4490af6aca8ee0f72
+      internalID: -1312320125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wooden-bridge-right-upper
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 128
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e42047a8f2729940a7506cb8d35f4c4
+      internalID: 424556020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: block-tileset
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f894837ca857e104c8a97837c412dd15
+      internalID: 1551859113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-left-downward-slope
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f656c08b1b9f21d44aa15edce43da9b4
+      internalID: 1266448440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-right-downward-slope
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 48
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd5ec447919e694eb8a53b1be2f5b62
+      internalID: -82375312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rocky-upper
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c99f69794bcf3c40af7eaf3c64635af
+      internalID: 208340613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-cliff-upper
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5529ac0c05d552546a3f5fe8ddb720e1
+      internalID: -1150934030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cave-right-downward-slope
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 32
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e4ee97e0c40fd49a11597a58ad53dd
+      internalID: 423492683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cave-left-downward-slope
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df4d23d917e3b47bd3362f79b15224
+      internalID: 1712673760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-cliff-lower-left
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adfa560ae0d8b440afabd5bff0c9b04
+      internalID: -1778355323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocky-cliff-left-upper
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 272
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38219475b2de8434887e9a57f452d937
+      internalID: -1767895733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cliff-left-3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7174160b84e5cd342874637c8327f43f
+      internalID: 1315560313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-cliff-right
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 48
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6197b31e8c15f3c4b9b64c292d82b1a3
+      internalID: -260362797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cliff-left-2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d7c1f9d6016d4d9ca8ca1cb5cb62b
+      internalID: 1794849917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cliff-left-1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3d3fd0ea2fb8045bbaab41c7ba0517
+      internalID: -194327866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cave-right-downward-slope-2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5e660ffcba39a4f81428a9be36a356
+      internalID: 1934662530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cave-left-downward-slope-2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 48
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb874f470dd0a0d4bba72c81a433d74c
+      internalID: -609548981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass-cliff-short
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7665652db3f7f1142a03fb4c204fbfdb
+      internalID: 2028646584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock-cliff-right-2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 208
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb4feff96f66f54caa8c04b09a82df3
+      internalID: -692701050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-grass-increasing
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40874bd39be27146acbf298fc592c35
+      internalID: -783952720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-grass-increasing-upper
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659da49f5424a6a43993b07a7e7a0474
+      internalID: 842766907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-rock-upper-7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1ef5d605fdb864f9e576f7a694d6e3
+      internalID: -1983434926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: platform-lower-grass2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4fb8267d0f0424495b12224f2a0ab0
+      internalID: 915238325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island-2-upper
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6699d6a1d917fd54ebe6f005d99c2848
+      internalID: 1915180296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island1-upper
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 288
+        width: 98
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338db8e4cb68a7344bc15b8304c06410
+      internalID: -1545421281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island4-upper
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 259
+        width: 48
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8019627a5a6aff6488bb7ba4c2032099
+      internalID: -423598783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floating-island-3-upper
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 259
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad300351d957e654b9b353bceba37ede
+      internalID: -147760954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      block-tileset: 1551859113
+      bush: 1791648468
+      bush-s: 1147326092
+      bush-tileset: -774498853
+      cave-block-l: 699513169
+      cave-block-left: -236938605
+      cave-block-m: 706131645
+      cave-block-right: 486042520
+      cave-block-s: 33960205
+      cave-empty: -1886652279
+      cave-left-downward-slope: 2010827463
+      cave-left-downward-slope-2: 1433866111
+      cave-left-upward-slope: -402647837
+      cave-right-downward-slope: 1119597918
+      cave-right-downward-slope-2: -1748201754
+      cave-right-upward-slope: 1275896452
+      floating-island-2: 1840269909
+      floating-island-2-upper: 1915180296
+      floating-island-3: 1379065494
+      floating-island-3-upper: -147760954
+      floating-island-4: 454983013
+      floating-island1: 93462742
+      floating-island1-upper: -1545421281
+      floating-island4-upper: -423598783
+      grass-cave-left-downward-slope: 1712673760
+      grass-cave-left-downward-slope-2: -609548981
+      grass-cave-right-downward-slope: 423492683
+      grass-cave-right-downward-slope-2: 1934662530
+      grass-cliff: 431487197
+      grass-cliff-left-1: 1705172877
+      grass-cliff-left-2: 1794849917
+      grass-cliff-left-3: 1315560313
+      grass-cliff-short: 2028646584
+      grass-cliff-upper: 1071135711
+      grass-empty-big: 775495912
+      grass-empty-s: -1065748222
+      grass-veins: 81222598
+      huge-rock: -1473483202
+      platform-grass-increasing: -783952720
+      platform-grass-increasing-upper: 842766907
+      platform-lower-grass: 1058711620
+      platform-lower-grass-bush-left: -1084373587
+      platform-lower-grass-bush-mid: 78628595
+      platform-lower-grass-bush-right: -528080641
+      platform-lower-grass2: 915238325
+      platform-lower-rocky: -2042649060
+      platform-lower-rocky-left1: -1461971907
+      platform-lower-rocky-left2: -1643379725
+      platform-lower-rocky2: -796065131
+      platform-rock-1: -826060322
+      platform-rock-3: 817132688
+      platform-rock-4: -85640730
+      platform-rock-5: 1432751727
+      platform-rock-upper-1: -1755054872
+      platform-rock-upper-2: -1243898949
+      platform-rock-upper-3: 920542851
+      platform-rock-upper-4: 630364663
+      platform-rock-upper-5: -369837094
+      platform-rock-upper-6: -2057723691
+      platform-rock-upper-7: -1983434926
+      platform-rock2: -1312780939
+      platform-rocky-lower: 162668307
+      platform-rocky-upper: 208340613
+      platform-under-rocky: -1107767434
+      platform-under-rocky-slope: -666780031
+      platform-under-rocky2: -1810254066
+      platform-upper-grass: 668433596
+      platform-upper-grass-bush: 1114818857
+      platform-upper-rocky: 2082892394
+      platform-upper-rocky2: -1550910918
+      rock-1: 902767517
+      rock-5: 288845537
+      rock-cliff-lower: 682970488
+      rock-cliff-right: -260362797
+      rock-cliff-right-2: -692701050
+      rock-cliff-upper: -1150934030
+      rock-empty: -216935166
+      rock-grass: -1947838988
+      rock-grass-huge: 1561407330
+      rock-left-downward-slope: 1266448440
+      rock-right-downward-slope: -82375312
+      rock-rock: 640001436
+      rock-tileset: 809457517
+      rocky-cliff-left-under: -1052433920
+      rocky-cliff-left-upper: -1767895733
+      rocky-cliff-lower-left: -1778355323
+      rocky-cliff-lower-right: -391485171
+      rocky-cliff-right-under: -468055888
+      rocky-cliff-right-upper: -602971790
+      tileset_0: 2003363218
+      tileset_1: -1538018203
+      tileset_10: -709371443
+      tileset_100: -1723957678
+      tileset_101: -1743108100
+      tileset_102: 1072261986
+      tileset_103: -1207066941
+      tileset_104: 1737263940
+      tileset_105: -1291163360
+      tileset_106: 432897414
+      tileset_107: -167009337
+      tileset_108: -420862977
+      tileset_109: -495731019
+      tileset_11: -876789700
+      tileset_110: 730164419
+      tileset_111: -1370516257
+      tileset_112: 426359243
+      tileset_113: 1021006742
+      tileset_114: 1140845327
+      tileset_115: -1370413089
+      tileset_116: 2054657762
+      tileset_117: -7854532
+      tileset_118: 913233705
+      tileset_119: -1975438307
+      tileset_12: -1666249978
+      tileset_120: -419948403
+      tileset_121: -689275242
+      tileset_122: -1019610277
+      tileset_123: 1969870231
+      tileset_124: 1939093858
+      tileset_125: 323800911
+      tileset_126: -1179640127
+      tileset_127: -1450127870
+      tileset_128: 1229922383
+      tileset_129: 1275661679
+      tileset_13: -434360213
+      tileset_130: -955925088
+      tileset_131: 95240361
+      tileset_132: 1015125664
+      tileset_133: 999059082
+      tileset_134: -1819723475
+      tileset_135: -53759831
+      tileset_136: 1085729585
+      tileset_137: 921544337
+      tileset_138: 976265830
+      tileset_139: 1109371904
+      tileset_14: -382372466
+      tileset_140: 462408412
+      tileset_141: -767667553
+      tileset_142: -547721354
+      tileset_143: 1321942879
+      tileset_144: -1238848749
+      tileset_145: -883631756
+      tileset_146: -1355499434
+      tileset_147: -1614698438
+      tileset_148: 1143092446
+      tileset_149: 1025525096
+      tileset_150: -1937239903
+      tileset_151: -1879579401
+      tileset_152: 835832960
+      tileset_153: -2008977719
+      tileset_154: 1318471983
+      tileset_155: 1078510875
+      tileset_156: -1236316968
+      tileset_157: 1656675329
+      tileset_158: -885039789
+      tileset_159: 96984656
+      tileset_160: 104872989
+      tileset_161: -1011139009
+      tileset_162: 447764345
+      tileset_163: 55894719
+      tileset_164: -2077891491
+      tileset_165: -518555449
+      tileset_166: 2129077113
+      tileset_168: 92235642
+      tileset_169: -74068176
+      tileset_17: 1101464655
+      tileset_171: -1886974279
+      tileset_172: 1582091108
+      tileset_174: 732986622
+      tileset_175: 1532078949
+      tileset_176: 718843493
+      tileset_177: 615435843
+      tileset_178: 1479377279
+      tileset_18: -1147878523
+      tileset_180: -672563265
+      tileset_181: 1333417055
+      tileset_182: 20818706
+      tileset_183: -1287556563
+      tileset_184: 1218808417
+      tileset_185: 520366063
+      tileset_186: 754578589
+      tileset_187: -208093086
+      tileset_188: 1575930865
+      tileset_189: -1510133871
+      tileset_19: 221204722
+      tileset_190: 1521203326
+      tileset_191: -890495065
+      tileset_192: 1103779513
+      tileset_193: -730069657
+      tileset_194: -969048730
+      tileset_195: 959588466
+      tileset_196: 913199940
+      tileset_197: -363482546
+      tileset_198: -840059602
+      tileset_199: -501307307
+      tileset_2: 717953507
+      tileset_20: -1227827096
+      tileset_200: 111134372
+      tileset_201: -1070897260
+      tileset_202: 1902327800
+      tileset_203: -1029997946
+      tileset_204: 253120107
+      tileset_205: 158188678
+      tileset_206: 1358214270
+      tileset_207: -2106685799
+      tileset_208: -985379412
+      tileset_209: 940324059
+      tileset_210: 292930495
+      tileset_211: -221521370
+      tileset_212: -2075529519
+      tileset_213: -1800409318
+      tileset_214: 2047567380
+      tileset_215: 350996262
+      tileset_216: -447670730
+      tileset_217: 263093804
+      tileset_218: -2059840814
+      tileset_219: -1944292400
+      tileset_220: 1998816382
+      tileset_221: 1053467615
+      tileset_222: -958097690
+      tileset_223: 1320643535
+      tileset_224: 1323240666
+      tileset_225: 1285709850
+      tileset_226: -72258022
+      tileset_227: -1273313633
+      tileset_228: -1508809646
+      tileset_229: 1067372999
+      tileset_23: -304635834
+      tileset_231: 1799996007
+      tileset_232: -394627860
+      tileset_233: -742925144
+      tileset_235: -1627682471
+      tileset_236: -973993492
+      tileset_237: 1148486681
+      tileset_238: -71882585
+      tileset_239: -1444342167
+      tileset_24: -289502680
+      tileset_240: -692801840
+      tileset_241: 229988402
+      tileset_244: 163258353
+      tileset_245: -701770293
+      tileset_246: 171398910
+      tileset_247: 892862588
+      tileset_248: 1203408508
+      tileset_249: -2102457171
+      tileset_25: -602253256
+      tileset_250: -2022072079
+      tileset_251: -1155619984
+      tileset_252: 988494356
+      tileset_253: 133062691
+      tileset_254: -1743027145
+      tileset_255: 1147071470
+      tileset_256: 1243474163
+      tileset_257: -1394249559
+      tileset_258: 1478518632
+      tileset_259: 1618846932
+      tileset_26: 1464468640
+      tileset_260: -1434778095
+      tileset_261: -488448709
+      tileset_262: 1238004127
+      tileset_264: -1105607743
+      tileset_265: 111685158
+      tileset_266: 1592617117
+      tileset_267: -1142669681
+      tileset_268: 1298226357
+      tileset_269: 1973056834
+      tileset_27: 2019662235
+      tileset_270: 1280459829
+      tileset_271: 628817225
+      tileset_272: -1690113820
+      tileset_273: 1132783863
+      tileset_276: 57754374
+      tileset_277: 1683217238
+      tileset_278: -1952946188
+      tileset_279: 1201944352
+      tileset_28: -1743825099
+      tileset_280: -987291345
+      tileset_281: 854549981
+      tileset_282: -1369187901
+      tileset_283: 188843736
+      tileset_284: 478493187
+      tileset_285: -1568932765
+      tileset_286: 2093538916
+      tileset_287: -1862899492
+      tileset_288: 1722400614
+      tileset_289: 464784217
+      tileset_29: 237367468
+      tileset_291: -1030401512
+      tileset_292: -1171836075
+      tileset_293: -1100392697
+      tileset_294: -1982902224
+      tileset_295: 1236896610
+      tileset_296: -1216048705
+      tileset_297: 1334102687
+      tileset_298: -1452268871
+      tileset_299: -940294438
+      tileset_3: -106343518
+      tileset_30: 1058030377
+      tileset_300: -1685818989
+      tileset_301: -1778493062
+      tileset_302: 1370160099
+      tileset_303: -125305706
+      tileset_304: -808571931
+      tileset_305: 909026315
+      tileset_306: -989973441
+      tileset_307: -1578350136
+      tileset_308: -880646939
+      tileset_309: 262935953
+      tileset_31: -1100856516
+      tileset_310: -419036277
+      tileset_311: -1579076880
+      tileset_312: 121861515
+      tileset_313: 1026883717
+      tileset_314: -1027200712
+      tileset_315: 1772408816
+      tileset_316: -279027321
+      tileset_317: 1325320202
+      tileset_318: 1924043727
+      tileset_319: 774145740
+      tileset_320: -578055002
+      tileset_321: -457055561
+      tileset_322: -541276831
+      tileset_323: -1643551521
+      tileset_324: -1102751764
+      tileset_325: 708864449
+      tileset_326: -1281427379
+      tileset_327: -2099641528
+      tileset_328: 1110729133
+      tileset_329: 493516249
+      tileset_330: -1708891486
+      tileset_331: 417379048
+      tileset_332: -108114307
+      tileset_335: -252765775
+      tileset_336: 1444133402
+      tileset_337: -150416784
+      tileset_338: 1265370234
+      tileset_339: -871656821
+      tileset_34: -1846873309
+      tileset_340: 2094535989
+      tileset_341: 532484531
+      tileset_342: -1456176174
+      tileset_343: 1739174366
+      tileset_344: 895495260
+      tileset_345: 2135525482
+      tileset_346: -251589171
+      tileset_347: 1218154713
+      tileset_348: 675479138
+      tileset_349: -178457136
+      tileset_35: 1546161558
+      tileset_350: -1742730084
+      tileset_351: -976566454
+      tileset_352: 1375678979
+      tileset_353: -1826950541
+      tileset_354: 1085601837
+      tileset_355: -641343531
+      tileset_356: -1119238648
+      tileset_357: 1410183857
+      tileset_358: -1353677281
+      tileset_359: -821792524
+      tileset_36: -14385212
+      tileset_362: 1075929957
+      tileset_363: -289862140
+      tileset_364: -1497040703
+      tileset_365: 973921589
+      tileset_366: -703420763
+      tileset_367: -1290549580
+      tileset_368: -1952597428
+      tileset_369: 1031047370
+      tileset_37: -2027763705
+      tileset_370: 2054794143
+      tileset_371: 743851576
+      tileset_372: 1568005784
+      tileset_373: -265321452
+      tileset_374: 1703879463
+      tileset_375: -1333707150
+      tileset_376: -601472098
+      tileset_377: -1032403835
+      tileset_378: 162251847
+      tileset_379: 479775995
+      tileset_38: 52108504
+      tileset_380: -173387254
+      tileset_381: -1528534423
+      tileset_382: 960907170
+      tileset_383: 622248401
+      tileset_384: -1608387139
+      tileset_385: 1382698107
+      tileset_386: 2109176346
+      tileset_387: 894826620
+      tileset_388: -1115073419
+      tileset_389: -407946155
+      tileset_39: -1889672796
+      tileset_390: -961089774
+      tileset_391: 1493934464
+      tileset_392: 1063463845
+      tileset_393: 160753988
+      tileset_394: 733281086
+      tileset_395: 1128902608
+      tileset_396: 1739509096
+      tileset_397: 217797033
+      tileset_398: 1894361034
+      tileset_399: -1630955989
+      tileset_4: -2035792006
+      tileset_400: -150858535
+      tileset_401: -330002154
+      tileset_402: 1519888110
+      tileset_403: -371407485
+      tileset_405: -905386789
+      tileset_406: 1111205312
+      tileset_407: 1006354504
+      tileset_408: -1089669515
+      tileset_409: -1417857285
+      tileset_410: -1932621240
+      tileset_411: -1194816994
+      tileset_412: -950302566
+      tileset_413: 1823611079
+      tileset_414: 157486135
+      tileset_415: -138582316
+      tileset_416: 2143466019
+      tileset_418: -1565792707
+      tileset_419: -1819336284
+      tileset_420: -827188864
+      tileset_421: -339844255
+      tileset_422: 596020188
+      tileset_423: 756304468
+      tileset_424: 1932311797
+      tileset_425: -332440574
+      tileset_426: 1828518017
+      tileset_427: 620040188
+      tileset_428: -632821633
+      tileset_429: -1793741685
+      tileset_43: -1740605130
+      tileset_430: 686794767
+      tileset_431: 292415768
+      tileset_432: 164225106
+      tileset_433: 1347160833
+      tileset_434: -97334409
+      tileset_435: 1991073924
+      tileset_436: -846940875
+      tileset_437: -1637262745
+      tileset_438: 374181521
+      tileset_439: 573626885
+      tileset_44: 1361554250
+      tileset_440: 40501861
+      tileset_441: -286010599
+      tileset_442: 22351846
+      tileset_443: -1087846106
+      tileset_444: -855380536
+      tileset_45: 842665175
+      tileset_46: -347674515
+      tileset_47: -812787267
+      tileset_48: -1943232926
+      tileset_49: 1618535608
+      tileset_5: 1846456371
+      tileset_50: 1361848379
+      tileset_51: 261483716
+      tileset_52: 1405469696
+      tileset_53: -707884412
+      tileset_54: -1962275444
+      tileset_55: 262247388
+      tileset_56: 40476415
+      tileset_57: -1518881076
+      tileset_58: 404462191
+      tileset_59: 1481737297
+      tileset_6: -150304639
+      tileset_60: 2028910229
+      tileset_61: 517708410
+      tileset_62: -277749761
+      tileset_63: 1446983045
+      tileset_64: -1367259501
+      tileset_65: 1521956193
+      tileset_66: 307977883
+      tileset_67: 990883205
+      tileset_68: -1404914426
+      tileset_69: -1956969198
+      tileset_7: -1621837374
+      tileset_70: -1803111947
+      tileset_71: 1448698640
+      tileset_72: 803498562
+      tileset_73: 1838093265
+      tileset_74: -1312166687
+      tileset_75: -1404935046
+      tileset_77: 120890356
+      tileset_79: 125851239
+      tileset_8: 1889321401
+      tileset_80: -722325175
+      tileset_81: 791987643
+      tileset_82: 1165377825
+      tileset_83: -1097553232
+      tileset_84: -542898218
+      tileset_85: 1342253977
+      tileset_86: -1145158560
+      tileset_87: 763226753
+      tileset_88: 1499657135
+      tileset_89: 173332564
+      tileset_9: -1707171303
+      tileset_90: 1693392223
+      tileset_91: 743922911
+      tileset_92: -1678502122
+      tileset_93: 2136536140
+      tileset_94: 383231765
+      tileset_95: -798330479
+      tileset_96: -1562608512
+      tileset_97: -990555066
+      tileset_98: -2003127025
+      tileset_99: -1555127306
+      tree: -2076206366
+      wooden-bridge-left-lower: 447221847
+      wooden-bridge-left-upper: 860463575
+      wooden-bridge-middle-lower: 16549263
+      wooden-bridge-middle-upper: -1312320125
+      wooden-bridge-right-lower: -951914678
+      wooden-bridge-right-upper: 424556020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
